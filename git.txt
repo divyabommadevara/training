@@ -1,0 +1,18 @@
+
+git clone github  link <localrepo> 
+git config --global user.name <divyabommadevara>
+git config --global user.email <divyabommadevara@gmail.com>
+git add .
+git commit -m "comment"
+git push
+git pull
+git status
+echo '*.class' > .gitignore
+git add .
+git branch 
+git branch <branch name>
+git checkout branch
+git merge source destination
+git stash
+git stash list
+
